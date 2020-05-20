@@ -1,0 +1,1 @@
+-This project is for checking the case log in successfully to website using the correct username, password. When login will verify the title of the page-To run: import the project. The test step is in stepDefinition/testStep.java. The page object file for login page is in POM/Loginpage.java
